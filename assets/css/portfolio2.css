@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://images.pexels.com/photos/1020320/pexels-photo-1020320.jpeg?cs=srgb&dl=background-canvas-close-up-1020320.jpg&fm=jpg)
+}
+
+p{
+    text-align: center;
+    font-size: 200%;
+}
+
+#name{
+    text-align: center;
+    background-color: teal;
+    color: white;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+#info{
+    text-align: center;
+    color: white;
+    }
